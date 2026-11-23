@@ -1,0 +1,50 @@
+
+{
+  "invoice_number": "2026-001",
+  "invoice_date": "23.11.2026",
+
+  "seller_name": "ООО Ромашка",
+  "seller_inn": "7701234567",
+  "seller_address": "г. Москва, ул. Ленина, д. 10",
+  "seller_phone": "+7 495 123-45-67",
+
+  "buyer_name": "ООО Покупатель",
+  "buyer_inn": "7809876543",
+  "buyer_address": "г. Санкт-Петербург, Невский проспект, д. 25",
+
+  "bank_name": "Сбербанк",
+  "bik": "044525225",
+  "bank_account": "40702810000000000001",
+  "correspondent_account": "30101810400000000225",
+
+  "payment_days": 5,
+
+  "items": [
+    {
+      "product": "Ноутбук Lenovo ThinkPad",
+      "price": 75000.00,
+      "qty": 2,
+      "total": 150000.00
+    },
+    {
+      "product": "Мышь Logitech",
+      "price": 2500.00,
+      "qty": 3,
+      "total": 7500.00
+    },
+    {
+      "product": "Клавиатура Logitech",
+      "price": 4500.00,
+      "qty": 1,
+      "total": 4500.00
+    },
+    {
+      "product": "Монитор Samsung 27",
+      "price": 18500.00,
+      "qty": 2,
+      "total": 37000.00
+    }
+  ],
+
+  "total": 199000.00
+}
